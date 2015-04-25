@@ -1,0 +1,13 @@
+{
+  "repositories": [
+    {
+      "url": "https://github.com/d-a-n/beanstalk_console.git",
+      "type": "git"
+    }
+  ],
+  "require": {
+    "ptrofimov/beanstalk_console": "dev-feature/auto-create-storage-file",
+    "php": ">=5.2.0",
+    "ext-json": "*"
+  }
+}
